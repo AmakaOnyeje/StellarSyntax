@@ -48,15 +48,15 @@ document.body.classList.toggle('dark-mode');
 	const style =
 document.createElement('style');
 	style.textContent =
-	    .dark-mode {
+		.dark-mode {
 			background-color: #333;
 			color: #fff;
 		}
-	    .dark-mode header {
+		.dark-mode header {
 			background:
 linear-gradient(135deg, #222, #555);
 		}
-	    .dark-mode section {
+		.dark-mode section {
 			background: #444;
 			color: #fff;
 		}
