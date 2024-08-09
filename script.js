@@ -60,7 +60,7 @@ linear-gradient(135deg, #222, #555);
 			background: #444;
 			color: #fff;
 		}
-	    .dark-mode nav ul li a {
+		.dark-mode nav ul li a {
 			color: #ddd;
 		}
-	    .dark-mode footer {
+		.dark-mode footer {
